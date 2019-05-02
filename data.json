@@ -4,8 +4,8 @@
 		{
 			"url" : "https://www.gtsa.es/",
 			"dominio" : "gtsa",
-			"fechaDesde" : "que piense otro",
-			"soryu": "En wake-up del otro"
+			"fechaDesde" : "09/30/2018",
+			"fechaHasta": "01/01/2019"
 
 		}
 	]
